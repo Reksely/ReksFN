@@ -1,5 +1,4 @@
-ReksFN
-This is a Private Server that you can download in https://reksfn.dev
+ReksFN is a Private Server that you can download in https://reksfn.dev
 We would be happy if you use it ❤️
 
 Installation:
